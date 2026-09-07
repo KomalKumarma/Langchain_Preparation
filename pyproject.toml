@@ -9,6 +9,7 @@ dependencies = [
     "dotenv>=0.9.9",
     "langchain-google-genai==4.3.7",
     "langchain[google-genai]>=0.1.0",
+    "wikipedia>=1.4.0",
 ]
 
 [tool.uv]
